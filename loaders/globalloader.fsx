@@ -6,6 +6,7 @@ type SiteInfo = {
 }
 
 let loader (projectRoot: string) (siteContent: SiteContents) =
-    siteContent.Add({title = "Sample Fornax blog"; description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit"})
+    let desc = "A virtual coffee morning for software developers - does exactly what it says on the tin."
+    siteContent.Add({title = "Programmer's Coffee Morning"; description = desc })
 
     siteContent

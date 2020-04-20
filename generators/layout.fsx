@@ -62,7 +62,7 @@ let layout (ctx : SiteContents) active bodyCnt =
             div [Class "container"] [
               div [Class "navbar-brand"] [
                 a [Class "navbar-item"; Href "/"] [
-                  img [Src "/images/bulma.png"; Alt "Logo"]
+                  img [Src "/images/coffee-morning-5479.jpg"; Alt "Logo"]
                 ]
                 span [Class "navbar-burger burger"; Custom ("data-target", "navbarMenu")] [
                   span [] []
@@ -91,13 +91,6 @@ let published (post: Postloader.Post) =
 let postLayout (post: Postloader.Post) =
     div [Class "card article"] [
         div [Class "card-content"] [
-            div [Class "media-content has-text-centered"] [
-                p [Class "title article-title"; ] [ a [Href post.link] [!! post.title]]
-                p [Class "subtitle is-6 article-subtitle"] [
-                a [Href "#"] [!! (defaultArg post.author "")]
-                !! (sprintf "on %s" (published post))
-                ]
-            ]
             div [Class "content article-body"] [
                 !! post.content
             ]

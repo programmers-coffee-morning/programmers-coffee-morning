@@ -26,7 +26,7 @@ let generate' (ctx : SiteContents) (page: string) =
         ]
         div [Class "container"] [
             section [Class "articles"] [
-                div [Class "column is-8 is-offset-2"] [
+                div [] [
                     Layout.postLayout post
                 ]
             ]
