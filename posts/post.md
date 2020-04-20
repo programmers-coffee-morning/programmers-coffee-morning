@@ -17,7 +17,7 @@ people a chance to do that.
 
 ### The Open / Closed Principal
 
-At the moment my coffee morning is open to anyone. But I think there's probably an optimal number of people for online chatting somewhere between 2 and 8. So if the group becomes successful I'll make it invite only.
+At the moment my coffee morning is open to anyone. But I think there's probably an optimal number of people for online chatting somewhere between 2 and 8. So if the group becomes successful I'll make it invite only. Invites will need to be renewed to allow rotation of people.
 
 So that everyone who wants to can benefit from a virtual coffee morning I encourage other people to organize one and add the details here. To do this sent a [PR here](https://github.com/programmers-coffee-morning/programmers-coffee-morning).
 
