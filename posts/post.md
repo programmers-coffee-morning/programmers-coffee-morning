@@ -9,10 +9,10 @@ The near global lock down caused by COVID-19 means that most software developers
 are missing taking coffee and shooting the breeze. So I decided to organize a virtual coffee morning to give 
 people a chance to do that.
 
-| Organizer               | Time                           | Platform         | Link                                |
-| ----------------------- |--------------------------------|------------------|-------------------------------------|
-| Robert Pickering        | Tuesday 11:30 CET / 10:30 GMT  | Blue Jeans       | [bluejeans.com/636727256](https://bluejeans.com/636727256/)    |
-| Robert Pickering        | Thursday 11:30 CET / 10:30 GMT | Blue Jeans       | [bluejeans.com/636727256](https://bluejeans.com/636727256/)    |
+| Organizer                                               | Time                           | Platform         | Link                                |
+| ------------------------------------------------------- |--------------------------------|------------------|-------------------------------------|
+| [Robert Pickering](https://github.com/robertpi/)        | Tuesday 11:30 CET / 10:30 GMT  | Blue Jeans       | [bluejeans.com/636727256](https://bluejeans.com/636727256/)    |
+| [Robert Pickering](https://github.com/robertpi/)        | Thursday 11:30 CET / 10:30 GMT | Blue Jeans       | [bluejeans.com/636727256](https://bluejeans.com/636727256/)    |
 
 
 ### The Open / Closed Principal

@@ -1,0 +1,3 @@
+[submodule "_public"]
+	path = _public
+	url = git@github.com:programmers-coffee-morning/programmers-coffee-morning.github.io.git
