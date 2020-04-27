@@ -6,7 +6,7 @@ published: 2020-04-20
 ---
 
 The near global lock down caused by COVID-19 means that most software developers are working from home. Some of
-are missing taking coffee and shooting the breeze. So I decided to organize a virtual coffee morning to give 
+are missing taking coffee and shooting the breeze. So I decided to organize a virtual coffee morning to give
 people a chance to do that.
 
 | Organizer                                               | Time                           | Platform         | Link                                |
@@ -25,4 +25,4 @@ So that everyone who wants to can benefit from a virtual coffee morning I encour
 
 Don't know what platform to use? Here's Dylan's advice:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Try using a different platform each week until you find one that works well for your people. Jitsi, Whereby, GoToMeeting, Teams, Hangouts, Skype, Bluejeans, Discord, WebEx all have their strengths and weaknesses (as indeed does Zoom) - and the comparative data is useful.</p>&mdash; Dylan Beattie 🇪🇺 @ 🏡 (@dylanbeattie) <a href="https://twitter.com/dylanbeattie/status/1249308389630410752?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Try using a different platform each week until you find one that works well for your people. Jitsi, Whereby, GoToMeeting, Teams, Hangouts, Skype, Bluejeans, Discord, WebEx all have their strengths and weaknesses (as indeed does Zoom) - and the comparative data is useful.</p>&mdash; Dylan Beattie 🇪🇺 @ 🏡 (@dylanbeattie) <a href="https://twitter.com/dylanbeattie/status/1249308389630410752?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
